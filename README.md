@@ -21,3 +21,4 @@ This app uses [Meals DB](https://themealdb.com/api.php) to provide various categ
 - [x] Search by recipe category
 - [ ] Cache images
 - [ ] Lookup recipes by primary ingredient
+- [ ] Add [snapshot tests](https://github.com/pointfreeco/swift-snapshot-testing)
